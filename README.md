@@ -15,8 +15,8 @@ Hi, my name is Pedro. I live in Nova Friburgo, Rio de Janeiro, Brazil. I’m a *
 
 ## 🤓 **Other Areas of Interest**  
 - **Optimization**  
-- **Graphics Computation**  
-- **Algorithm Design**  
+- **Computer Graphics**  
+- **Algorithm**  
 
 ---
 
