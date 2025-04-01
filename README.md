@@ -21,7 +21,7 @@ Hi, my name is Pedro. I live in Nova Friburgo, Rio de Janeiro, Brazil. I’m a *
 ---
 
 ## 🕹️ **Main Project: Indie Roguelike Game**  
-**Mouse Project** is an **#indie roguelike game** that uses **procedural animation**. This project is a collaboration with three amazing colleagues, and we're combining our skills to bring a unique gaming experience to life.  
+**Mouse Project** is an **indie roguelike game** that uses **procedural animation**. This project is a collaboration with three amazing colleagues, and we're combining our skills to bring a unique gaming experience to life.  
 
 ---
 
