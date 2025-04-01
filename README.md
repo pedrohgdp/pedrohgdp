@@ -1,16 +1,28 @@
-##
+### 👨‍💻 **About Me**  
+Hi, my name is Pedro. I live in Nova Friburgo, Rio de Janeiro, Brazil. I’m a **Computer Science student** deeply passionate about mathematics, especially **applied mathematics**. My focus is to always strive to improve and do my best to solve problems and develop innovative solutions. Currently diving deeper into **mathematics** and **Back-End development**.  
 
-<!--
-**pedrohgdp/pedrohgdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 **Programming Languages**  
+- **C**  
+- **C++**  
+- **Python**  
+- **Java**  
+- **GDScript** (Godot Engine)  
+- **Jupyter Notebook**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤓 **Other Areas of Interest**  
+- **Optimization**  
+- **Graphics Computation**  
+- **Algorithm Design**  
+
+---
+
+## 🕹️ **Main Project: Indie Roguelike Game**  
+**Mouse Project** is an **#indie roguelike game** that uses **procedural animation**. This project is a collaboration with three amazing colleagues, and we're combining our skills to bring a unique gaming experience to life.  
+
+---
+
+**Feel free to explore my projects and collaborate on others!**
