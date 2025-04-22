@@ -8,7 +8,7 @@ Hi, my name is Pedro. I live in Nova Friburgo, Rio de Janeiro, Brazil. I’m a *
 - **C++**  
 - **Python**  
 - **Java**  
-- **GDScript** (Godot Engine)  
+- **GDScript** ( Godot Engine )  
 - **Jupyter Notebook**
 - **HTML | CSS** ( Basic ) 
 
