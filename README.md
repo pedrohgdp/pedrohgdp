@@ -1,29 +1,29 @@
-### 👨‍💻 **About Me**  
-Hi, my name is Pedro. I live in Nova Friburgo, Rio de Janeiro, Brazil. I’m a **Computer Science student** deeply passionate about mathematics, especially **applied mathematics**. My focus is to always strive to improve and do my best to solve problems and develop innovative solutions. Currently diving deeper into **mathematics** and **Back-End development**.  
+👨‍💻 Sobre Mim
+Oi, meu nome é Pedro. Moro em Nova Friburgo, Rio de Janeiro, Brasil. Sou estudante de Ciência da Computação, profundamente apaixonado por matemática, especialmente por matemática aplicada. Meu foco é sempre me esforçar para melhorar e dar o meu melhor na resolução de problemas e no desenvolvimento de soluções inovadoras. Atualmente, estou me aprofundando em matemática e desenvolvimento Back-End.
 
----
+💻 Linguagens de Programação
+C
 
-## 💻 **Programming Languages**  
-- **C**  
-- **C++**  
-- **Python**  
-- **Java**  
-- **GDScript** ( Godot Engine )  
-- **Jupyter Notebook**
-- **HTML | CSS** ( Basic ) 
+C++
 
----
+Python
 
-## 🤓 **Other Areas of Interest**  
-- **Optimization**  
-- **Computer Graphics**  
-- **Algorithm**  
+Java
 
----
+GDScript ( Godot Engine )
 
-## 🕹️ **Main Project: Indie Roguelike Game**  
-**Mouse Project** is an **indie roguelike game** that uses **procedural animation**. This project is a collaboration with three amazing colleagues, and we're combining our skills to bring a unique gaming experience to life.  
+Jupyter Notebook
 
----
+HTML | CSS ( Básico )
 
-**Feel free to explore my projects and collaborate on others!**
+🤓 Outras Áreas de Interesse
+Otimização
+
+Computação Gráfica
+
+Algoritmos
+
+🕹️ Projeto Principal: Jogo Roguelike Indie
+Mouse Project é um jogo roguelike indie que utiliza animação procedural. Esse projeto é uma colaboração com três colegas incríveis, e estamos unindo nossas habilidades para dar vida a uma experiência de jogo única.
+
+Sinta-se à vontade para explorar meus projetos e colaborar em outros!
