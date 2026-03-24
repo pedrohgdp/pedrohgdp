@@ -26,14 +26,13 @@ I have a strong interest in algorithms, computer graphics, software architecture
 
 ## 💻 Tech
 
-C · C++ · Python · Java (Spring Framework) · GDScript
-HTML & CSS (basic)
+C · C++ · Python · Java (Spring Framework) · GDScript · HTML & CSS (basic)
 
 ---
 
 ## 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohgdp\&show_icons=true\&hide_border=true\&theme=dark/&hide_rank=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohgdp\&show_icons=true\&hide_border=true\&theme=dark\&hide_rank=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohgdp\&layout=compact\&hide_border=true\&theme=dark)
 
