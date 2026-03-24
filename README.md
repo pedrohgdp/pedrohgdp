@@ -41,6 +41,7 @@ C · C++ · Python · Java (Spring Framework) · GDScript · HTML & CSS (basic)
 ## 🚀 Project
 
 1- **Projeto Mouse**
+
 Um jogo indie desenvolvido por uma equipe de quatro estudantes de Ciência da Computação apaixonados por arte e jogos.
 
 *Indie game developed by a team of four Computer Science students who are passionate about art and games.*
