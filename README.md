@@ -6,7 +6,7 @@ Computer Science Student | Backend Development & Mathematics
 
 ## 🇧🇷 Sobre mim
 
-Sou estudante de Ciência da Computação, apaixonado por matemática — especialmente matemática aplicada — e por entender como as coisas funcionam em profundidade.
+Sou estudante de Ciência da Computação, apaixonado por matemática, especialmente matemática aplicada, e por entender como as coisas funcionam em profundidade.
 
 Atualmente, estou focado em desenvolvimento Back-End e desenvolvimento de jogos.
 
@@ -18,7 +18,7 @@ Tenho grande interesse em algoritmos, computação gráfica, arquitetura de soft
 
 ## 🇺🇸 About me
 
-I am a Computer Science student passionate about mathematics — especially applied mathematics — and understanding how things work at a deeper level.
+I am a Computer Science student passionate about mathematics especially applied mathematics and understanding how things work at a deeper level.
 
 Currently, I am focused on backend development and game development.
 
